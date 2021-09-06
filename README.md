@@ -1,4 +1,6 @@
 # Offshoots
+![offshoots](https://raw.githubusercontent.com/MiguelDeTrool/Offshoots/main/photos/1%20front.jpg)
+
 Offshoots is an easy to DIY, Arduino Nano based adaptation of
 Mutable Instruments' Branches. Heavily inspired by sound-force.nl's Through-Hole Braids and Quinie.nl's NanoGris.
 
