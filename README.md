@@ -2,7 +2,7 @@
 ![offshoots](https://raw.githubusercontent.com/MiguelDeTrool/Offshoots/main/photos/1%20front.jpg)
 
 Offshoots is an easy to DIY, Arduino Nano based adaptation of
-Mutable Instruments' Branches. Heavily inspired by sound-force.nl's Through-Hole Braids and [Quinie.nl's NanoGris](https://github.com/Quinienl/NanoGris).
+Mutable Instruments' Branches. Heavily inspired by [sound-force.nl's Through-Hole Braids](https://sound-force.nl/?page_id=3179) and [Quinie.nl's NanoGris](https://github.com/Quinienl/NanoGris).
 
 Only functional difference with Branches is Offshoots doesn't "remember" which output is high when leaving latch mode and coming back to it again. It needs a new input to latch to one of the outputs.
 
