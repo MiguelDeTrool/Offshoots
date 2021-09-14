@@ -32,6 +32,6 @@ NOTES,,,,"Total cost of Tayda cart with the Arduino is about $10, without it’s
 ,,,,"You can replace the expensive and hard to source LM4040LP-5 with a 10V Zener, you just have to replace R3 and R6 with 200k resistors. The Zener and resistors and 14 cents to the cart"
 ,,,,LED orientation isn’t vital so long as it’s consistent. Use LED orientation indicated on PCB (shorter lead to square pad) to have original Branches colors
 ,,,,Switch orientation isn’t vital so long as it’s consistent. Just changes which mode corresponds to pushed/unpushed position
-,,,,"You could just use 1K resistors for R11 and R12, it would save ordering extra. It just makes LEDs slightly duller"
+,,,,"You could just use 1K resistors for R11 and R12, it would save ordering extra 220R ones. It just makes LEDs slightly duller"
 ,,,,"You can get two 6mm M3 screws and a 11mm M3 standoff to hold the control and brain boars together, but I don’t find them necessary"
 ,,,,"Auto-gate generation isn’t implemented yet, might never be"
